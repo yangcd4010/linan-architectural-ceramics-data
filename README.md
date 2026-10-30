@@ -14,3 +14,11 @@ The archive contains a detailed README, data dictionary, environment requirement
 ## License
 
 The data and code are released under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Credit the authors and cite the original studies identified in the dataset where applicable.
+
+## Archived release
+
+Version **v1.0.0** is archived in Zenodo: [10.5281/zenodo.23816856](https://doi.org/10.5281/zenodo.23816856).
+
+[GitHub release v1.0.0](https://github.com/yangcd4010/linan-architectural-ceramics-data/releases/tag/v1.0.0)
+
+Yang, C., Si, H., Lu, D., & Li, Y. (2026). *Data and numerical verification code for architectural ceramics from the Southern Song imperial city of Lin'an* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23816856
