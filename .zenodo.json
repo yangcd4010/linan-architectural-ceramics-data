@@ -1,0 +1,34 @@
+{
+  "title": "Data and numerical verification code for architectural ceramics from the Southern Song imperial city of Lin’an",
+  "upload_type": "dataset",
+  "description": "XRF, XRD, FTIR and selected SEM data and numerical verification code for an architectural-ceramic assemblage from Lin’an.",
+  "creators": [
+    {
+      "name": "Yang, Chengda",
+      "affiliation": "School of History, Nanjing University",
+      "orcid": "0009-0009-9679-3597"
+    },
+    {
+      "name": "Si, Hongwei",
+      "affiliation": "Shanghai Urban Construction Vocational College"
+    },
+    {
+      "name": "Lu, Di",
+      "affiliation": "Shanghai Urban Construction Vocational College"
+    },
+    {
+      "name": "Li, Ying",
+      "affiliation": "Hangzhou Institute of Cultural Relics and Archaeology"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "archaeological ceramics",
+    "Southern Song",
+    "Lin’an",
+    "XRF",
+    "XRD",
+    "FTIR"
+  ],
+  "version": "1.0.0"
+}
